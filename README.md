@@ -42,7 +42,7 @@ También se recomienda tener experiencia básica con Apache Spark y el ecosistem
 
 1. **Clona este repositorio**: 
    ```bash
-   git clone https://github.com/tu_usuario/spark-spotify-analysis.git
+   git clone https://github.com/roberolv/PySaprk_Spotify.git
    
 ## Instrucciones de Uso
 
