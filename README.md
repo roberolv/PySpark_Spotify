@@ -43,12 +43,10 @@ También se recomienda tener experiencia básica con Apache Spark y el ecosistem
 1. **Clona este repositorio**: 
    ```bash
    git clone https://github.com/roberolv/PySaprk_Spotify.git
-   
-## Instrucciones de Uso
 
-1. **Instala las dependencias**: Asegúrate de tener Apache Spark instalado y configurado en tu entorno.
+2. **Instala las dependencias**: Asegúrate de tener Apache Spark instalado y configurado en tu entorno.
 
-2. **Ejecuta el notebook**:
+3. **Ejecuta el notebook**:
 
    ```bash
    jupyter notebook Spark_m2.ipynb
